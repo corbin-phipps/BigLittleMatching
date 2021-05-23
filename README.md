@@ -13,8 +13,9 @@ Each row after the header should follow the format as the header.
 
 For example, for bigs-little-preferences.csv:
 
-<big>,<little_first_choice>,<little_second_choice>,...,<little_nth_choice>
+<big_1>,<little_first_choice>,<little_second_choice>,...,<little_nth_choice>
+<big_2>,<little_first_choice>,<little_second_choice>,...,<little_nth_choice>
 
 For littles-big-preferences.csv:
   
-<little>,<big_first_choice>,<big_second_choice>,...,<big_nth_choice>
+<little_1>,<big_first_choice>,<big_second_choice>,...,<big_nth_choice>
